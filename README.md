@@ -1,1 +1,0 @@
-# Sustainable-Smart-City-Assistant-Using-IBM-Granite_LLM
